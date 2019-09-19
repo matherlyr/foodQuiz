@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(201, 93, 77);
+}
+h1 {
+    text-align: center;
+    background-color: black;
+    color:aliceblue;
+    font-size: 50px;
+}
+p {
+    text-align: center;
+    font-size: 30px;
+}
+img {
+    width:200px;
+    height:200px; 
+    position: fixed;
+    top:500px;
+    left: 40px;
+}
